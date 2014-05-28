@@ -12,7 +12,7 @@ Anggota 2   :
 	Nama: Mhd Alwi Fahlevi Ginting
 	NIM:12.111.1672
 Anggota 3:
-	Nama: ALan Steven Panjaitan
+	Nama: Alan Steven Panjaitan
 	NIM: 12.111.1800
 Anggota 4:
 	Nama: Ade Maulana Putra
@@ -42,10 +42,10 @@ Daily Scrum
 2. Hari ini saya Memasukan judul di slide 3 dengan ukuran h2 
 3. Saya ada kendala di... -
 
-(Nama Anggota 2):
-1.
-2.
-3.
+(Alan Steven Panjaitan):
+1. - 
+2. Hari ini saya memasukkan judul di slide 1 dengan ukuran h2
+3. Saya tidak ada kendala
 
 (Nama Anggota 3):
 1.
@@ -59,27 +59,27 @@ Daily Scrum
 2. Hari ini saya mengedit theme slide 
 3. Saya ada kendala di bahasa .jade
 
-(Nama Anggota 2):
-1.Semalam saya 
-2.Hari ini saya 
-3.
+(Alan Steven Panjaitan):
+1. Semalam saya memasukkan judul di slide 1
+2. Hari ini saya memasukkan judul di slide 4 dengan ukuran h2
+3. Saya tidak ada kendala
 
 (Nama Anggota 3):
 1.
 2.
 3.
 
-27/5 
+28/5 
 Daily Scrum
 (Nama Anggota 1):
 1. Semalam saya Mengedit them slide
 2. Hari ini saya memuat isi slide 4 
 3. Saya ada tidak ada kendala
 
-(Nama Anggota 2):
-1.Semalam saya 
-2.Hari ini saya 
-3.
+(Alan Steven Panjaitan):
+1. Semalam saya memasukkan judul di slide 4
+2. Hari ini saya memasukkan judul di slide 5
+3. Saya tidak ada kendala 
 
 (Nama Anggota 3):
 1.
