@@ -47,10 +47,10 @@ Daily Scrum
 2. Hari ini saya memasukkan judul di slide 1 dengan ukuran h2
 3. Saya tidak ada kendala
 
-(Nama Anggota 3):
-1.
-2.
-3.
+(Ade Maulana Putra):
+1. -
+2. Hari ini saya memasukkan judul di slide 2
+3. tidak ada masalah
 
 27/5 
 Daily Scrum
@@ -64,10 +64,10 @@ Daily Scrum
 2. Hari ini saya memasukkan judul di slide 4 dengan ukuran h2
 3. Saya tidak ada kendala
 
-(Nama Anggota 3):
-1.
-2.
-3.
+(Ade Maulana Putra):
+1. Semalam saya memasukkan judul slide 2
+2. Hari ini saya memasukkan judul slide 3
+3. Tidak ada masalah
 
 28/5 
 Daily Scrum
@@ -82,6 +82,6 @@ Daily Scrum
 3. Saya tidak ada kendala 
 
 (Nama Anggota 3):
-1.
-2.
-3.
+1. Semalam saya memasukkan judul slide 3
+2. Hari ini saya memasukkan judul slide 7
+3. Tidak ada masalah
