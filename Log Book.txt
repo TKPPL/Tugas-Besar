@@ -12,7 +12,7 @@ Anggota 2   :
 	Nama: Mhd Alwi Fahlevi Ginting
 	NIM:12.111.1672
 Anggota 3:
-	Nama: ALan Steven Panjaitan
+	Nama: Alan Steven Panjaitan
 	NIM: 12.111.1800
 Anggota 4:
 	Nama: Ade Maulana Putra
@@ -43,15 +43,15 @@ Daily Scrum 1
 2. Hari ini saya Memasukan judul di slide 3 dengan ukuran h2 
 3. Saya ada kendala di... -
 
-(Nama Anggota 2):
-1.
-2.
-3.
+(Alan Steven Panjaitan):
+1. - 
+2. Hari ini saya memasukkan judul di slide 1 dengan ukuran h2
+3. Saya tidak ada kendala
 
-(Nama Anggota 3):
-1.
-2.
-3.
+(Ade Maulana Putra):
+1. -
+2. Hari ini saya memasukkan judul di slide 2
+3. tidak ada masalah
 
 27/5 
 Daily Scrum
@@ -60,15 +60,15 @@ Daily Scrum
 2. Hari ini saya mengedit theme slide 
 3. Saya ada kendala di bahasa .jade
 
-(Nama Anggota 2):
-1.Semalam saya 
-2.Hari ini saya 
-3.
+(Alan Steven Panjaitan):
+1. Semalam saya memasukkan judul di slide 1
+2. Hari ini saya memasukkan judul di slide 4 dengan ukuran h2
+3. Saya tidak ada kendala
 
-(Nama Anggota 3):
-1.
-2.
-3.
+(Ade Maulana Putra):
+1. Semalam saya memasukkan judul slide 2
+2. Hari ini saya memasukkan judul slide 3
+3. Tidak ada masalah
 
 28/5 
 Daily Scrum
@@ -77,11 +77,17 @@ Daily Scrum
 2. Hari ini saya memuat isi slide 4 
 3. Saya ada tidak ada kendala
 
-(Nama Anggota 2):
-1.Semalam saya 
-2.Hari ini saya 
-3.
+(Alan Steven Panjaitan):
+1. Semalam saya memasukkan judul di slide 4
+2. Hari ini saya memasukkan judul di slide 5
+3. Saya tidak ada kendala 
 
+(Ade Maulana Putra):
+1. Semalam saya memasukkan judul slide 3
+2. Hari ini saya memasukkan judul slide 7
+3. Tidak ada masalah
+
+<<<<<<< HEAD
 (Nama Anggota 3):
 1.
 2.
@@ -105,3 +111,11 @@ anggota:
 1. isi slide 4
 2. judul slide
 3. koneksi internet kadang kadang, terputus.
+=======
+29/5
+Daily Scrum
+(Ade Maulana Putra)
+1. Semalam saya mengisi judul slide 7
+2. Hari ini saya   mengisi judul slide 8
+3. Tanpa masalah
+>>>>>>> ed723edd92fed9fd6106ca00bf2b983f76a865c8
