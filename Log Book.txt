@@ -121,8 +121,13 @@ anggota:
 ===================
 (alan steven)
 1. kemarin mengerjakan judul slide halaman 5.
+<<<<<<< HEAD
 2. menulis judul slide 10
 3. Laptop gagal.
+=======
+2. menulis judul slide 11
+3. tidak ada.
+>>>>>>> fb755f64fbafd905e83bee92f23e17b2895c646f
 
 ===================
 ( nanda rusmana)
