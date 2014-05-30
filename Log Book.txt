@@ -132,7 +132,7 @@ anggota:
 
 
 Daily Scrum 2 (Scrum master: Mhd. Alwi Fahlevi Ginting)
-29/5
+30/5
 anggota:
 ====================
 (Ade Maulana Putra)
@@ -140,5 +140,10 @@ anggota:
 2. Hari ini saya mengisi judul slide 12 & 13
 3. Tidak ada masalah
 
+====================
+(Alan Steven Panjaitan)
+1. Semalam saya mengisi judul slide 10
+2. Hari ini saya mengisi judul slide 14 & 15
+3. Tidak ada masalah
 
 
