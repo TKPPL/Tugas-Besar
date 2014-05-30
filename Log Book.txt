@@ -23,11 +23,12 @@ Anggota 4:
 SPRINT
 ------
 Sprint 1: 
-26/5 - 29/5
+26/5 - 28/5
 Scrummaster: Nanda Rusmana (121112279)
 
 Sprint 2:
-
+29/5 - 31/5
+Scrummaster: Mhd. Alwi Fahlevi Ginting (121111672)
 
 Sprint 3: 
 
@@ -36,7 +37,7 @@ Progress Harian (Diupdate tiap hari)
 ------------------------------------
 
 26/5 
-Daily Scrum
+Daily Scrum 1
 (Nama Anggota 1):
 1. Semalam saya.. (abaikan jika hari pertama)
 2. Hari ini saya Memasukan judul di slide 3 dengan ukuran h2 
@@ -51,6 +52,11 @@ Daily Scrum
 1. -
 2. Hari ini saya memasukkan judul di slide 2
 3. tidak ada masalah
+
+(Mhd. Alwi Fahlevi Ginting)
+1.-
+2.isi slide 2
+3. tidak ad maasalah
 
 27/5 
 Daily Scrum
@@ -69,6 +75,12 @@ Daily Scrum
 2. Hari ini saya memasukkan judul slide 3
 3. Tidak ada masalah
 
+(Mhd. Alwi Fahlevi Ginting)
+1. memasukan isi slide 2.
+2. isi slide 3
+3. tidak ada masalah
+
+
 28/5 
 Daily Scrum
 (Nanda RUsmana):
@@ -86,9 +98,37 @@ Daily Scrum
 2. Hari ini saya memasukkan judul slide 7
 3. Tidak ada masalah
 
+(Mhd. Alwi Fahlevi Ginting)
+1. isi slide 3
+2. isi slide 6
+3. koneksi internet.
+<<<<<<< HEAD
+(Nama Anggota 3):
+1.
+2.
+3.
+
+
+Daily Scrum 2 (Scrum master: Mhd. Alwi Fahlevi Ginting)
 29/5
-Daily Scrum
-(Ade Maulana Putra)
+anggota:
+====================
+(ade maulana putra)
 1. Semalam saya mengisi judul slide 7
 2. Hari ini saya   mengisi judul slide 8
 3. Tanpa masalah
+
+===================
+(alan steven)
+1. kemarin mengerjakan judul slide halaman 5.
+2. menulis judul slide 10
+3. Laptop gagal.
+
+===================
+( nanda rusmana)
+1. isi slide 4
+2. judul slide 9
+3. koneksi internet kadang kadang, terputus.
+
+
+
