@@ -1,0 +1,67 @@
+!!! 5
+html
+head
+    meta(name='viewport', content='width=device-width')
+    title Bespoke.js
+    link(rel='stylesheet', type='text/css', href='style.css')
+    link(rel='stylesheet', type='text/css', href='themes.css')
+    link(href='http://fonts.googleapis.com/css?family=Raleway+Dots', rel='stylesheet', type='text/css')
+  body.coverflow
+    #main
+      header
+        a(href='https://github.com/markdalgleish/bespoke.js')
+          h1 Bespoke.js
+          h2 DIY Presentation Micro-Framework
+        p.hidden
+          span#input-method Press up and down keys
+          | to view example themes.
+      article
+        section
+        section
+        section
+        section
+        section
+        section
+        section
+        section
+        section
+        section
+        section
+        section
+        section
+        section
+        section
+        section
+        section
+        section
+        section
+        section
+        section
+        section
+        section
+        section
+        section
+        section
+        section
+        section
+        section
+        section
+    #forkme
+      a(href='https://github.com/markdalgleish/bespoke.js') Fork me on GitHub
+    footer
+      .credits
+        a(href='http://twitter.com/markdalgleish')
+          img(src='profile.jpg', alt='Mark Dalgleish')
+        p
+          | Lovingly crafted by
+          a(href='http://twitter.com/markdalgleish') @markdalgleish
+      .themes
+        p
+          strong
+            | Example Theme
+            span.colon :
+          span#theme
+        #up-arrow.up.arrow ^
+        #down-arrow.down.arrow ^
+    script(src='../src/bespoke.js')
+    script(src='demo.js')
