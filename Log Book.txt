@@ -31,6 +31,8 @@ Sprint 2:
 Scrummaster: Mhd. Alwi Fahlevi Ginting (121111672)
 
 Sprint 3: 
+02/6 - 04/6
+Scrummaster: Alan Steven Panjaitan (121111800)
 
 
 Progress Harian (Diupdate tiap hari)
@@ -102,11 +104,6 @@ Daily Scrum
 1. isi slide 3
 2. isi slide 6
 3. koneksi internet.
-<<<<<<< HEAD
-(Nama Anggota 3):
-1.
-2.
-3.
 
 
 Daily Scrum 2 (Scrum master: Mhd. Alwi Fahlevi Ginting)
@@ -142,6 +139,7 @@ anggota:
 1. semalam mengerjakan judul slide 11
 2. sekarang megerjakan isi slide 7 & 8
 3. koneksi internet
+
 ====================
 (Ade Maulana Putra)
 1. Semalam saya mengisi judul slide 8
@@ -153,15 +151,22 @@ anggota:
 1. Semalam saya mengisi judul slide 10
 2. Hari ini saya mengisi judul slide 14 & 15
 3. Tidak ada masalah
+
 ====================
 (Nanda rusmana)
 1. Semalam mengerjakan judul slide 9
 2. Hari ini saya mengerjakan isi slide 9 dan 10
 3. tidak ada masalah
 
-Daily Scrum 3 (Scrum master: Mhd. Alwi Fahlevi Ginting)
+Daily Scrum 2 (Scrum master: Mhd. Alwi Fahlevi Ginting)
 31/5
 anggota:
+(Mhd. Alwi Fahlevi Ginting)
+1. Semalam saya mmengerjakan isi slide 7 & 8
+2. Sekarang saya mengerjakan isi slide 14 & 15
+3. Tidak ada
+
+====================
 (Ade Maulana Putra)
 1. semalam mengerjakan judul slide 12 & 13
 2. sekarang megerjakan isi slide 11
@@ -178,9 +183,30 @@ anggota:
 1. Semalam saya mengerjakan isi slide 9 dan 10
 2. Hari ini saya mengerjakan isi slide 13
 3. Tidak ada
-=====================
 
-(Mhd. Alwi Fahlevi Ginting)
-1. Semalam saya mmengerjakan isi slide 7 & 8
-2. Sekarang saya mengerjakan isi slide 14 & 15
+Daily Scrum 3 (Scrum master: Alan Steven Panjaitan)
+02/6
+anggota:
+
+(Alan Steven Panjaitan)
+1. Semalam saya mengisi slide 12
+2. Hari ini Saya mengerjakan style slide 5
 3. Tidak ada
+
+=====================
+(Nanda Rusmana)
+1. Semalam saya mengerjakan isi slide 13
+2. Hari ini saya mengerjakan style 1 & 2
+3. Tidak ada
+
+====================
+(Mhd. Alwi Fahlevi Ginting)
+1. Semalam saya mmengerjakan isi slide 14 & 15
+2. Sekarang saya mengerjakan style slide 7
+3. Tidak ada
+
+====================
+(Ade Maulana Putra)
+1. Semalam mengerjakan isi slide 11
+2. Sekarang tidak mengerjakan 
+3. Masalah pulang kerja sampe jam 12 malam
