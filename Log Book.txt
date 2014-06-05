@@ -230,11 +230,38 @@ anggota:
 ====================
 (Mhd. Alwi Fahlevi Ginting)
 1. Semalam saya mmengerjakan style slide 7
-2. Sekarang saya mengerjakan ....
+2. Sekarang saya mengerjakan gambar slide 8
 3. Tidak ada
 
 ====================
 (Ade Maulana Putra)
 1. Semalam mengerjakan style slide 3
-2. Sekarang ...
-3. ...
+2. Sekarang mengerjakan style slide 4
+3. Tidak ada
+
+Daily Scrum 3 (Scrum master: Alan Steven Panjaitan)
+04/6
+anggota:
+
+(Alan Steven Panjaitan)
+1. Semalam saya mengerjakan style slide 5 & 6 lanjutan dan style slide 9 & 10 
+2. Hari ini Saya mengerjakan style slide 9 & 10 lanjutan
+3. Tidak ada
+
+=====================
+(Nanda Rusmana)
+1. Semalam saya mengerjakan style 11 & 12
+2. Hari ini saya mengerjakan perbaikan slide 
+3. Tidak ada
+
+====================
+(Mhd. Alwi Fahlevi Ginting)
+1. Semalam saya mmengerjakan gambar slide 8
+2. Sekarang saya mengerjakan gambar slide 13 & 14
+3. Tidak ada
+
+====================
+(Ade Maulana Putra)
+1. Semalam mengerjakan style slide 4
+2. Sekarang saya mengerjakan edit slide 5
+3. Tidak ada
