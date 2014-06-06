@@ -288,7 +288,7 @@ anggota:
 ====================
 (Mhd. Alwi Fahlevi Ginting)
 1. Semalam saya mmengerjakan gambar slide 13 & 14
-2. Sekarang saya mengerjakan 
+2. Sekarang saya mengerjakan styling h1, h2, h3
 3. Tidak ada
 
 ====================
