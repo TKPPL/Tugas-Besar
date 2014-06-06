@@ -296,3 +296,30 @@ anggota:
 1. Semalam mengerjakan editing slide 5
 2. Sekarang saya mengerjakan editing
 3. Tidak ada
+
+Daily Scrum 2 (Scrum master: Ade Maulana Putra)
+06/6
+anggota:
+
+(Alan Steven Panjaitan)
+1. Semalam saya mengerjakan Bug Fixing
+2. Hari ini Saya mengerjakan Bug Fixing slide 1 dan styiling
+3. Tidak ada
+
+=====================
+(Nanda Rusmana)
+1. Semalam saya mengerjakan Bug Fixing
+2. Hari ini saya mengerjakan Bug Fixing dan Editing
+3. Tidak ada
+
+====================
+(Mhd. Alwi Fahlevi Ginting)
+1. Semalam saya mengerjakan styling h1, h2, h3
+2. Sekarang saya menginput gambar ke slide
+3. Tidak ada
+
+====================
+(Ade Maulana Putra)
+1. Semalam mengerjakan editing
+2. Sekarang saya mengerjakan styling dan penambahan slide
+3. Tidak ada
