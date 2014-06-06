@@ -34,6 +34,10 @@ Sprint 3:
 02/6 - 04/6
 Scrummaster: Alan Steven Panjaitan (121111800)
 
+Sprint 3: 
+05/6 - 08/6
+Scrummaster: Ade Maulana Putra (121111702)
+
 
 Progress Harian (Diupdate tiap hari)
 ------------------------------------
@@ -264,4 +268,31 @@ anggota:
 (Ade Maulana Putra)
 1. Semalam mengerjakan style slide 4
 2. Sekarang saya mengerjakan edit slide 5
+3. Tidak ada
+
+Daily Scrum 1 (Scrum master: Ade Maulana Putra)
+05/6
+anggota:
+
+(Alan Steven Panjaitan)
+1. Semalam saya mengerjakan style slide 9 & 10 lanjutan
+2. Hari ini Saya mengerjakan Bug Fixing
+3. Tidak ada
+
+=====================
+(Nanda Rusmana)
+1. Semalam saya mengerjakan style perbaikan slide
+2. Hari ini saya mengerjakan Bug Fixing
+3. Tidak ada
+
+====================
+(Mhd. Alwi Fahlevi Ginting)
+1. Semalam saya mmengerjakan gambar slide 13 & 14
+2. Sekarang saya mengerjakan 
+3. Tidak ada
+
+====================
+(Ade Maulana Putra)
+1. Semalam mengerjakan editing slide 5
+2. Sekarang saya mengerjakan editing
 3. Tidak ada
