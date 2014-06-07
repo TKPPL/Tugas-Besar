@@ -1,10 +1,10 @@
 =======================
 INFORMASI UMUM
 
-Nama kelompok:
-Judul Topik:
-Alamat Github:
-Alamat Trello:
+Nama kelompok: Supernatural
+Judul Topik: Blog
+Alamat Github: https://github.com/TKPPL/Tugas-Besar
+Alamat Trello: https://trello.com/b/V4IoDe6M/tugas-tkppl
 Anggota 1   :
 	Nama: Nanda Rusmana
 	NIM : 121112279
